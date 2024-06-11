@@ -1,1 +1,1 @@
-# nome-do-seu-repositorio-
+print("skibidi rizz") --seu script aqui.
